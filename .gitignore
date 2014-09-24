@@ -1,0 +1,3 @@
+# Don't track the html directory, since it will frequently change,
+# and its content is a function of the other directories.
+/html/*
