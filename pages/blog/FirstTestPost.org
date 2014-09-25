@@ -1,0 +1,11 @@
+* First test blog post!
+** Here's a heading!
+This is just a test post to see if the blog creation script is working.
+*** And here
+H3 text!
+**** We allow
+...Heading 4 text...
+***** Headings up to...
+Heading 5 sub-text.
+****** ...Six Deep!
+Final text!
