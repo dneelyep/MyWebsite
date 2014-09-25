@@ -1,3 +1,11 @@
 * About
 ** This is the about page.
 This page will later hold a description of the purpose of the site, etc.
+** Why make this site?
+I find it fun to read the sites of smart people who keep personal web sites over their
+lives, with lots of information in them. So, I figure "Hey! I wanna be a smart people too!
+I'll make my own website like those other smart people!"
+** Why make this site (really)?
+Mainly so I have a centralized place to put different things I think about/write/create over time. Rather than keeping a blog on Wordpress, all of my code on something like Github, my videos on YouTube, any web-based programs hosted on their own sites, etc, this lets me put all this in a single place for easy maintenance.
+
+Plus, this makes for a fun tech project to work on. In my day job, I do Windows Forms development. Here, I'm writing a custom Emacs Lisp-based system for generating the site from page definition files. I also get to learn more about web development, hosting, etc, etc.
